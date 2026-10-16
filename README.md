@@ -232,4 +232,4 @@ Kwai is offered as a **full free version** for Windows, including all features a
 Start your journey with Kwai today, create amazing content, and connect with a vibrant community!
 
 ---
-**Last updated:** 2026-10-16 01:02:12 UTC
+**Last updated:** 2026-10-16 06:49:35 UTC
